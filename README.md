@@ -10,14 +10,14 @@ https://dados.gov.br/dados/conjuntos-dados/sistema-de-consulta-prodcert
 
 ## Metodologia
 O projeto segue as seguintes etapas:
-Coleta dos dados públicos do Prodcert
-Limpeza, tratamento e transformação dos dados utilizando Python
-Construção de dashboards interativos no Power BI
+- Coleta dos dados públicos do Prodcert
+- Limpeza, tratamento e transformação dos dados utilizando Python
+- Construção de dashboards interativos no Power BI
 
 ## Ferramentas Utilizadas
-Python
-Power BI
-GitHub
+- Python
+- Power BI
+- GitHub
 
 ## Visualização
 O dashboard final pode ser acessado no link abaixo:
@@ -25,10 +25,10 @@ O dashboard final pode ser acessado no link abaixo:
 https://app.powerbi.com/view?r=eyJrIjoiMTkyZjY4ZmItNGU0NS00N2VkLTlmYTQtMGY0Y2VhMmY3OGU4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9
 
 ## Insights Esperados
-Participação de mercado por OCP
-Evolução temporal por escopo
-Comparação entre organismos
-Identificação de tendências no setor
+- Participação de mercado por OCP
+- Evolução temporal por escopo
+- Comparação entre organismos
+- Identificação de tendências no setor
 
 # ENG
 ## Objective
@@ -40,14 +40,14 @@ https://dados.gov.br/dados/conjuntos-dados/sistema-de-consulta-prodcert
 
 ## Methodology
 The project follows the following steps:
-Collection of public data from Prodcert
-Cleaning, processing, and transforming the data using Python
-Building interactive dashboards in Power BI
+- Collection of public data from Prodcert
+- Cleaning, processing, and transforming the data using Python
+- Building interactive dashboards in Power BI
 
 ## Tools Used
-Python
-Power BI
-GitHub
+- Python
+- Power BI
+- GitHub
 
 ## Visualization
 The final dashboard can be accessed at the link below:
@@ -55,7 +55,7 @@ The final dashboard can be accessed at the link below:
 https://app.powerbi.com/view?r=eyJrIjoiMTkyZjY4ZmItNGU0NS00N2VkLTlmYTQtMGY0Y2VhMmY3OGU4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9
 
 ## Expected Insights
-Market share by OCP
-Temporal evolution by scope
-Comparison between organizations
-Identification of trends in the sector
+- Market share by OCP
+- Temporal evolution by scope
+- Comparison between organizations
+- Identification of trends in the sector
