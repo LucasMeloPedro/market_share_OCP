@@ -24,6 +24,10 @@ O dashboard final pode ser acessado no link abaixo:
 
 https://app.powerbi.com/view?r=eyJrIjoiMTkyZjY4ZmItNGU0NS00N2VkLTlmYTQtMGY0Y2VhMmY3OGU4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9
 
+Prévia do Dashboard:
+![Dashboard](imagem_dashboard.PNG)
+
+
 ## Insights Esperados
 - Participação de mercado por OCP
 - Evolução temporal por escopo
@@ -53,6 +57,10 @@ The project follows the following steps:
 The final dashboard can be accessed at the link below:
 
 https://app.powerbi.com/view?r=eyJrIjoiMTkyZjY4ZmItNGU0NS00N2VkLTlmYTQtMGY0Y2VhMmY3OGU4IiwidCI6IjA4MGJjMDIzLTVlNWEtNDZmYi1iYmU4LWViNTQ4ZTk4NzNhNiJ9
+
+Quick view of the Dashboard:
+![Dashboard](imagem_dashboard.PNG)
+
 
 ## Expected Insights
 - Market share by OCP
